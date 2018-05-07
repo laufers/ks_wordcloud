@@ -5,7 +5,7 @@
 # using pandoc. 
 #
 # script is to run from the project main directory with the 
-# data files in ./data and the ouput going to ./results
+# data files in ./data and the ouput going to ./results/text
 
 fpath='./data/area_reports'
 opath='./results/text/'
